@@ -3,9 +3,7 @@ body {
     margin: 0;
     text-align: center;
     font-family: "Montserrat",serif;
-
-   
-
+    background-color: #E4F9F5;
 }
 
 h1{
@@ -19,9 +17,6 @@ h1{
 h2{
     color: #66BFBF;
     font-weight: normal;
-    
-    
-    
 }
 
 .topbox{
@@ -53,24 +48,15 @@ h2{
 
 .imagemperfil{
     padding-top: 1.25rem;   /*20px*/
-
 }
 
 .dream{
     font-size:1.56rem;    /*25px*/
     color: #66BFBF;
-
-
 }
 
 .montanha{
     width: 26.8rem;   /*430px*/
-}
-
-.bottom-container a{
-  text-decoration: none;
-  color: black;
-
 }
 
 .contact-me .btn{
@@ -78,15 +64,72 @@ h2{
     color: black;
 }
 
+.diviconface.img{
+    position: relative;
+    bottom: 3rem;
+    right: 1.3rem;
+   
+}
+.divgithub.img{
+    position: relative;
+    right: 1.3rem;
+}
 
+.logomiguel{
+    position: relative;
+    bottom: 0.4rem;
+    right: 0.5rem;
 
+}
+.logogit{
+    width: 2.5rem;
+    padding-bottom: 1rem;
+}
 
+.logoface{
+    width: 2.5rem;
+}
 
+.logogit:hover{
+    width: 3.5rem;
+    padding-bottom: 1rem;
+}
 
+.logoface:hover{
+    width: 3.5rem;
+}
+.logoc{
+    width:7rem;
+    height: 7rem;
+    padding-bottom: 2rem;
+}
 
+.botaogetintouch{
+    margin-bottom: 1.5rem;
+    margin-top: 0.5rem;
+    background: #3498db;
+    border-radius: 3.5rem;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    cursor: pointer;
 
+}
+.botaogetintouch:hover{
+  background: #3cb0fd;
+}
+hr{
+    width: 3.5rem;
+    border:dotted #D8D8D8 6px;
+    border-bottom: none;
+    margin: 5rem auto 5rem auto;
+
+}
+
+.skills {
+    font-size: 3.5rem;
+}
     
-
-
 
 
